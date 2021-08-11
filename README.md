@@ -468,6 +468,8 @@
 - [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 - [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 - [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
+- [Build a social network with Supabase and Vue 3](https://raddevon.com/articles/build-a-social-network-with-supabase-and-vue-3/) (Video)
+- [Deploy a Vue 3 Supabase app quick and easy on Netlify](https://raddevon.com/articles/deploy-a-vue-3-supabase-app-on-netlify/) (Video)
 
 ### Examples
 
